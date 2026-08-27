@@ -198,7 +198,20 @@ Entre as melhorias já realizadas estão:
 
 ## 📷 Demonstração
 
-As imagens demonstrativas do sistema serão adicionadas a esta seção.
+1 — Dashboard
+Legenda: Visão consolidada dos principais indicadores administrativos e financeiros da operação.
+
+2 — Mensalidades
+Legenda: Controle de competência, vencimentos, pagamentos, pendências e composição financeira.
+
+3 — Programação
+Legenda: Gestão da programação semanal, capacidade dos horários, aulas experimentais e serviços.
+
+4 — Equipamentos
+Legenda: Controle de disponibilidade, rotação e histórico dos equipamentos utilizados pelos alunos.
+
+5 — Lista de espera
+Legenda: Processo estruturado para registro de interessados e até três preferências de dias e horários.
 
 > Por questões de privacidade e segurança, as demonstrações utilizadas neste portfólio não exibem dados pessoais reais dos clientes.
 
